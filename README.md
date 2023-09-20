@@ -1,2 +1,2 @@
 # hackarity
-Hackathon, team name Hackarity, for SA Social Coding Club
+Hackarity team hacking for SA Social Coding Club.
